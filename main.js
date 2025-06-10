@@ -1,29 +1,3 @@
-// let display = document.getElementById("display");
-
-// function appendToDisplay(input){
-//     display.value += input
-// }
-
-// function clearDisplay(){
-//     display.value = ""
-// }
-
-// function clearDisplayLength(){
-
-// const arry = Object.values(display.value);
-//     arry.length -= 1;
-//     display.value ="";
-//     const change =  arry.join("");
-//     display.value +=change;
-
-// }
-
-// function calculate(){
-//     display.value = eval(display.value) 
-// }
-
-
-
 let calculater = {
     display: document.getElementById("display"),
     clearLength: document.getElementById("clearLength"),
